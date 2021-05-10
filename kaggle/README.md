@@ -17,7 +17,7 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-1. 入 Kaggle search 吓有咩你有興趣
+## **1. 入 Kaggle search 吓有咩你有興趣**
 
 <img src="./imgs/001.jpeg">
 
@@ -27,7 +27,7 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-2. 撳入 Code 度
+## **2. 撳入 Code 度**
 
 <img src="./imgs/002.jpeg">
 
@@ -37,7 +37,7 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-3. Filter 人哋啲 code
+## **3. Filter 人哋啲 code**
 
 <img src="./imgs/003.jpeg">
 
@@ -47,7 +47,7 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-4. 淨係要啲多人 like 嘅
+## **4. 淨係要啲多人 like 嘅**
 
 <img src="./imgs/004.jpeg">
 
@@ -57,7 +57,7 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-5. 揀個最多人 like 嘅
+## **5. 揀個最多人 like 嘅**
 
 <img src="./imgs/005.jpeg">
 
@@ -67,11 +67,11 @@ Kaggle 本身係一個俾人 challenge 嘅網。
 
 <br/>
 
-5. 然後就可以當教學睇啦
+## **5. 然後就可以當教學睇啦**
 
 <img src="./imgs/006.jpeg">
 
-6. 如果想自己試吓玩啲 code ，就撳右上角 Copy and Edit 
+## **6. 如果想自己試吓玩啲 code ，就撳右上角 Copy and Edit** 
 
 <br/>
 
